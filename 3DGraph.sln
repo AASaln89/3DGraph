@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DGraph", "3DGraph\3DGraph.csproj", "{30C34E4A-8A08-43DD-AAD2-6B6F6201A407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C34E4A-8A08-43DD-AAD2-6B6F6201A407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C34E4A-8A08-43DD-AAD2-6B6F6201A407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C34E4A-8A08-43DD-AAD2-6B6F6201A407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C34E4A-8A08-43DD-AAD2-6B6F6201A407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB8233B-3E02-491E-8F62-02473D3B0B73}
+	EndGlobalSection
+EndGlobal
